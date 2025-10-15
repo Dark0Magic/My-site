@@ -20,6 +20,7 @@ body {
 }
 
 .card {
+  border: 1px splid black;
   max-width: 25%;
   padding-left: 20px;
 }
@@ -45,4 +46,5 @@ body {
     .card {
       max-width: 100%;
     }
+
 }
